@@ -1,0 +1,8 @@
+# Ignorar la carpeta herramientas
+herramientas/
+
+# Ignorar otros archivos temporales o carpetas
+*.log
+*.tmp
+.idea/
+
